@@ -79,5 +79,8 @@ Rank 3: <image fetched>
 ## Conclusion
 This project demonstrates the effective integration of vision and language models for multimodal retrieval tasks. With a focus on robust evaluation and efficient processing, it lays the groundwork for scalable image retrieval systems.
 
+## Link to entire project :
+https://drive.google.com/file/d/1nEJTOr24ReQyHPjsRA0xKNeO1WYoVTDq/view
+
 Gautam Balachandran
 gautam.balachandran@gmail.com
